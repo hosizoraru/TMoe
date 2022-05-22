@@ -39,7 +39,8 @@ public class HookEntry implements IXposedHookLoadPackage, IXposedHookZygoteInit 
             "icu.ketal.yunigram.lspatch.beta",
             "org.forkgram.messenger",
             "com.blxueya.gugugram",
-            "com.blxueya.gugugramx"
+            "com.blxueya.gugugramx",
+            "org.telegram.mdgram"
     );
 
 
